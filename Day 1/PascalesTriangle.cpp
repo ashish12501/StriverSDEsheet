@@ -29,7 +29,7 @@ vector<vector<int>> pascalTriangle(int N)
     return v2;
 }
 
-Code for testing.
+// Code for testing.
 int main()
 {
     int n;
